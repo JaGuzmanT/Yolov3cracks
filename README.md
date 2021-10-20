@@ -1,8 +1,5 @@
-# YoloV3 custom training video
-En este proyecto se presenta el entrenamiento con tu propio dataset para YOLOv3
-
-## Artículo original:
-https://pjreddie.com/media/files/papers/YOLOv3.pdf
+# YoloV3 crack detection in images and video
+En este proyecto se presenta el entrenamiento con un dataset de grietas para YOLOv3
 
 # Implementación:
 
